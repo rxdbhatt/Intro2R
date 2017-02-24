@@ -5,6 +5,9 @@ date: "February 24, 2017"
 output: html_document
 ---
 
+I logged you out!!
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
