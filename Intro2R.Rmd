@@ -85,6 +85,14 @@ tbl_vars(cars)
 
 1. Student_Assignments.Rmd::PART ONE
 **Loading Data**
+```{r}
+westUnion <- read_csv("data/westUnion.csv")
+str(westUnion)
+```
+
+
+
+
 
 ## Data Reshaping - dplyr (John)
 
